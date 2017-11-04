@@ -16,7 +16,7 @@ background(100);
 noStroke();
 blocks[0]={
   hacc:0,
-  vacc:0.5,
+  vacc:0.3,
   hspd:0,
   vspd:0,
   xpos:100,
