@@ -126,10 +126,8 @@ color:#ffffff;
         color: var(--main-text-color);
         text-align: center;
         font-size: 16px;
-        padding: 10px 20px;
-        transition: all 0.5s;
+        transition: all 0.25s;
         background-color:var(--main-accent-color);
-        margin:10px -50px 10px 10px;
         font-weight:700;
     }
     button:hover {
