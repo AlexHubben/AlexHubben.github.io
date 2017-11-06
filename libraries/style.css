@@ -1,6 +1,6 @@
 :root{
   --main-text-color:#262626;
-  --main-accent-color:#999;
+  --main-accent-color:#3aafa9;
 }
 
     body {
@@ -76,10 +76,12 @@
         text-indent:15px;
     }
     article.header {
+        /*margin-left:calc(20% -75px);*/
         font-size:26px;
         background-color:var(--main-accent-color);
-        padding:5px 0px 5px 40px;
+        padding:5px 0px 5px calc(20% - 150px);
         margin-top: -4px;
+
         /*position:sticky;
         top:34px;*/
 
